@@ -1,3 +1,4 @@
 Pinus
 Minus
 kosinus
+pass
