@@ -2,3 +2,4 @@ Pinus
 Minus
 kosinus
 pass
+kisl
